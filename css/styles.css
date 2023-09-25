@@ -1,5 +1,16 @@
+body{
+    background-color: rgb(148, 198, 231);
+}
+h1{
+    text-align: center;
+}
 img {
 
     width: 180px;
     height: 250px;
+}
+
+#imgJaime{
+    width: 50px;
+    height: 50px;
 }
